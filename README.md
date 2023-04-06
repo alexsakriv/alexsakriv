@@ -37,3 +37,6 @@ Pytest, Python, Selene \ Selenium, PyCharm, Requests, Appium, Jenkins, Selenoid,
 </a>
 
 ## &#x1f4c8; Мои проекты:
+
+| 🖥️ <a target="_blank" href="https://github.com/alexsakriv/demoqa-tests">UI autotests</a>  | ⚙️ <a target="_blank" href= "https://github.com/alexsakriv/qa_guru_python_3_14">API autotests</a> | 📱 <a target="_blank" href= "https://github.com/alexsakriv/qa_guru_python_3_20">Mobile autotests</a> |
+|----------------|---------------|---------------|
