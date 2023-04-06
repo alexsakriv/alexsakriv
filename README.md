@@ -11,18 +11,18 @@
 <p  align="center">
 Pytest, Python, Selene \ Selenium, PyCharm, Requests, Appium, Jenkins, Selenoid, Allure, Github, Telegram
 </br>
-<img width="50px" title="Pytest" src="images/pytest.png">
-<img width="50px" title="Python" src="images/python.png">
-<img width="50px" title="Selene" src="images/selene.png">
-<img width="50px" title="Selenium" src="images/selenium.png">
-<img width="50px" title="PyCharm" src="images/pysharm.png">
-<img width="50px" title="Requests" src="images/request.png">
-<img width="50px" title="Appium" src="images/appium.png">
+<img width="50px" title="Pytest" src="images/Pytest.png">
+<img width="50px" title="Python" src="images/Python.png">
+<img width="50px" title="Selene" src="images/Selene.png">
+<img width="50px" title="Selenium" src="images/Selenium.png">
+<img width="50px" title="PyCharm" src="images/PyCharm.png">
+<img width="50px" title="Requests" src="images/Requests.png">
+<img width="50px" title="Appium" src="images/Appium.png">
 <img width="50px" title="Jenkins" src="images/Jenkins.png">
-<img width="50px" title="Selenoid" src="images/selenoid.png">
-<img width="50px" title="Allure" src="images/allure.png">
-<img width="50px" title="Github" src="images/Github.png">
-<img width="50px" title="Telegram" src="images/telegram.png">
+<img width="50px" title="Selenoid" src="images/Selenoid.png">
+<img width="50px" title="Allure Report" src="images/allure_report.png">
+<img width="50px" title="Github" src="images/github.png">
+<img width="50px" title="Telegram" src="images/tg.png">
 </p>
 
 ## &#x1f4c8; Статистика GitHub:
